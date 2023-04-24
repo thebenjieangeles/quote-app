@@ -2,7 +2,7 @@
   "name": "quote-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/thebenjieangeles/random-quote-app",
+  "homepage": "https://thebenjieangeles.github.io/quote-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
